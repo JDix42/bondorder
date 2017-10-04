@@ -12,3 +12,8 @@ numpy version 1.12.0
 scipy version 0.19.1
 
 MDAnalysis version 0.15.0
+
+
+For testing:
+
+Nose version 1.3.7
